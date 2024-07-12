@@ -66,15 +66,10 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 
 
-    <p>&nbsp&nbsp&nbspLuciana Bordoan<br>
+   <p>&nbsp&nbsp&nbspLuciana Bordoan<br>
     &nbsp&nbsp&nbsp
-    <a 
-        href="https://www.linkedin.com/in/luciana-bordoan-0931b013a/">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/lbordoan">
-        LinkedIn
-    </a>
-    </p>
+    <a href="https://github.com/lbordoan">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/luciana-bordoan-0931b013a/">LinkedIn</a>
+&nbsp;|&nbsp;    
+</p>
